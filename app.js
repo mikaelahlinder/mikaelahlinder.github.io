@@ -6,7 +6,7 @@
             '<span class="lightgray">&lt;!DOCTYPE html&gt;</span><br/>' +
             '&lt;html&gt;<br/>' +
             '&lt;head&gt;<br/>' +
-                '<span class="in-one">&lt;title&gt;view-source:mikaelahlinder.com&lt;/title&gt;</span><br/>' +
+                '<span class="in-one black">&lt;title&gt;view-source:mikaelahlinder.com&lt;/title&gt;</span><br/>' +
                 '<span class="in-one">&lt;meta <span class="brown">charset</span>="<span class="blue">utf-8</span>" /&gt;</span><br/>' +
                 '<span class="in-one">&lt;meta <span class="brown">name</span>="<span class="blue">viewport</span>" <span class="brown">content</span>="<span class="blue">width=device-width, initial-scale=1</span>"/&gt;</span><br/>' +
                 '<span class="in-one">&lt;link <span class="brown">href</span>="<span class="lightblue">app.css</span>" <span class="brown">rel</span>="<span class="blue">stylesheet</span>" /&gt;</span><br/>' +
